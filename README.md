@@ -44,4 +44,4 @@ Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a
 Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar.
 
 ## Licença
-Este repositório está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está licenciado sob a licença MIT.
