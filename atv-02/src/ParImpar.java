@@ -4,12 +4,14 @@ public class ParImpar {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Vamos descobrir se um número é par ou ímpar!");
+
         System.out.println("Digite um número inteiro para descobrir se ele é PAR ou ÍMPAR: ");
         int num = sc.nextInt();
 
-        if(num % 2 == 0){
+        if (num % 2 == 0) {
             System.out.println("O número informado é PAR!");
-        }else{
+        } else {
             System.out.println("O número é ÍMPAR!");
         }
     }

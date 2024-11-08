@@ -16,9 +16,9 @@ public class SomaMenorQueC {
 
         System.out.println("A soma de A e B é: " + soma);
 
-        if(soma < c){
+        if (soma < c) {
             System.out.println("A soma de A e B é menor que C.");
-        }else{
+        } else {
             System.out.println("A soma de A e B é maior que C.");
         }
     }
