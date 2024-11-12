@@ -103,7 +103,7 @@ Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média 
 
 ### 13. Exercício 13
 
-Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
+Faça algoritmo que leia o nome e a idade de uma pessoa e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
 
 ### 14. Exercício 14
 
@@ -111,39 +111,35 @@ Faça um algoritmo que receba um valor A e B, e troque o valor de A por B e o va
 
 ### 15. Exercício 15
 
-Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. Leve em  consideração o ano com 365 dias e o mês com 30 dias. (Ex: 5 anos, 2 meses e 15 dias de vida)
-
-### 16. Exercício 16
-
 Faça um algoritmo que leia uma temperatura em Fahrenheit e calcule a temperatura correspondente em grau Celsius. Imprima na tela as duas temperaturas.
 
 Fórmula: C = (5 * ( F-32) / 9)
 
-### 17. Exercício 17
+### 16. Exercício 16
 
 Francisco tem 1,50m e cresce 2 centímetros por ano, enquanto Sara tem 1,10m e cresce 3 centímetros por ano. Faça um algoritmo que calcule e imprima na tela em quantos anos serão necessários para que Francisco seja maior que Sara.
 
-### 18. Exercício 18
+### 17. Exercício 17
 
 Faça um algoritmo que imprima na tela a tabuada de 1 até 10.
 
-### 19. Exercício 19
+### 18. Exercício 18
 
 Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.
 
-### 20. Exercício 20
+### 19. Exercício 19
 
 Faça um algoritmo que mostre um valor aleatório entre 0 e 100.
 
-### 22. Exercício 22
+### 20. Exercício 20
 
 Faça um algoritmo que leia dois valores inteiros A e B, imprima na tela o quociente e o resto da divisão inteira entre eles.
 
-### 23. Exercício 23
+### 21. Exercício 21
 
 Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
 
-### 24. Exercício 24
+### 22. Exercício 22
 
 Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
 
