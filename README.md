@@ -1,7 +1,5 @@
 # Exercícios em Java
 
-Este repositório contém uma série de atividades e desafios de programação desenvolvidos em **Java 8+**. As atividades cobrem uma variedade de tópicos, incluindo estruturas de dados, algoritmos entre outros.
-
 ## Índice
 1. [Visão Geral](#visão-geral)
 2. [Como Executar](#como-executar)
@@ -122,23 +120,6 @@ Faça um algoritmo que receba um valor inteiro e imprima na tela a sua tabuada.
 ### 17. Exercício 17
 
 Faça um algoritmo que mostre um valor aleatório entre 0 e 100.
-
-### 18. Exercício 18
-
-Faça um algoritmo que leia dois valores inteiros A e B, imprima na tela o quociente e o resto da divisão inteira entre eles.
-
-### 19. Exercício 19
-
-Faça um algoritmo que efetue o cálculo do salário líquido de um professor. As informações fornecidas serão: valor da hora aula, número de aulas lecionadas no mês e percentual de desconto do INSS. Imprima na tela o salário líquido final.
-
-### 20. Exercício 20
-
-Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que o carro faz 12km com um litro. Deve-se fornecer ao usuário o tempo que será gasto na viagem a sua velocidade média, distância percorrida e a quantidade de litros utilizados para fazer a viagem.
-
-Fórmula: 
-
-- distância = tempo x velocidade.
-- litros usados = distância / 12.
 
 ## Licença
 
